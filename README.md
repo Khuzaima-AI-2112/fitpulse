@@ -101,8 +101,8 @@ Here's what could be added in future versions of Fitpulse:
 
 ## Author
 ```
-Developed by --> [Khuzaima Ahmed ]
-(Add your LinkedIn or other relevant links here, similar to the example)
+Developed by --> Khuzaima Ahmed
+linkedIn: https://www.linkedin.com/in/khuzaima-ahmed/
 ```
 ---
 
